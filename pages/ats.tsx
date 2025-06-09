@@ -29,7 +29,7 @@ export default function JakDzialaATS() {
         <h1 className="text-2xl font-bold mb-4">Jak działa system ATS?</h1>
 
         <p>
-          ATS (Applicant Tracking System) to system oparty na sztucznej inteligencji wspierający rekruterów w przetwarzaniu dużej liczby aplikacji kandydatów.
+          ATS (Applicant Tracking System) to system oparty na sztucznej inteligencji znacznie wspierający rekruterów w przetwarzaniu dużej liczby aplikacji kandydatów.
           Automatycznie skanuje i analizuje treść CV, wyłapując słowa kluczowe, doświadczenie i zgodność z ogłoszeniem o pracę.
         </p>
 
