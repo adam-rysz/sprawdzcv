@@ -13,7 +13,7 @@ export default function ContactPage() {
     setStatus('sending');
 
     try {
-      const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/analyze`, {
+      const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/contact`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name, email, message }),
