@@ -48,12 +48,12 @@ export default function Home() {
         <meta property="og:title" content="Analiza CV – sprawdź dopasowanie do oferty pracy" />
         <meta property="og:description" content="Prześlij CV i zobacz, jak dobrze pasuje do ogłoszenia. Skorzystaj z automatycznej analizy ATS." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.twojadomena.pl/" />
-        <meta property="og:image" content="https://www.twojadomena.pl/og-image.png" />
+        <meta property="og:url" content="https://www.sprawdzcv.pl/" />
+        <meta property="og:image" content="https://www.sprawdzcv.pl/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Analiza CV – sprawdź dopasowanie do oferty pracy" />
         <meta name="twitter:description" content="Skorzystaj z narzędzia do analizy CV i dopasuj się idealnie do ogłoszenia o pracę." />
-        <meta name="twitter:image" content="https://www.twojadomena.pl/twitterCV.png" />
+        <meta name="twitter:image" content="https://www.sprawdzcv.pl/twitterCV.png" />
       </Head>
 
       <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-start p-4">

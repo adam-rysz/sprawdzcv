@@ -103,11 +103,11 @@ export default function CvForm({ onAnalyze }: CvFormProps) {
             Rekomenduję przepisanie swojego CV do szablonu, <strong>który jest do pobrania tutaj</strong>
           :&nbsp;
               <a
-                href="/szablon-cv.docx"
+                href="//CVAtsFriendly.docx"
                 download
                 className="text-blue-600 underline"
               >
-                szablon-cv.docx
+                 CVAtsFriendly.docx
               </a>
             </li>
               <li>
@@ -135,7 +135,7 @@ export default function CvForm({ onAnalyze }: CvFormProps) {
         <p className="mt-4 mb-2 font-medium">Krótka instrukcja obsługi:</p>
         <ol className="list-decimal list-inside space-y-1">
           <li>
-            Załącz swoje CV w formacie PDF lub DOCX poprzez użycie przycisku "Wybierz plik". Sugeruję korzystanie z szablonu CV do pobrania poniżej. 
+            Załącz swoje CV w formacie PDF lub DOCX poprzez użycie przycisku "Wybierz plik". Sugeruję korzystanie z szablonu CV do pobrania powyżej. 
           </li>
           <li>
             Z ogłoszenia skopiuj treść zakresu obowiązków i wymagań (nie kopiuj danych kontaktowych firmy, wynagrodzenia, benefitów, 
