@@ -103,7 +103,7 @@ export default function CvForm({ onAnalyze }: CvFormProps) {
             Rekomenduję przepisanie swojego CV do szablonu, <strong>który jest do pobrania tutaj</strong>
           :&nbsp;
               <a
-                href="//CVAtsFriendly.docx"
+                href="/CVAtsFriendly.docx"
                 download
                 className="text-blue-600 underline"
               >
