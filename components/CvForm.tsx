@@ -96,8 +96,8 @@ export default function CvForm({ onAnalyze }: CvFormProps) {
         <p className="mb-2 font-medium">Zanim zaczniesz:</p>
         <ol className="list-decimal list-inside space-y-1">
           <li>
-            Zanim prześlesz swoje CV do analizy zapoznaj się z polityką prywatności, a także usuń z niego takie dane jak imię i nazwisko, adres, stan cywilny, data
-            urodzenia itp, rozważ usunięcie zdjęcia. Na potrzeby analizy te dane są zbędne.
+            Zanim prześlesz swoje CV do analizy usuń z niego takie dane jak imię i nazwisko, adres, stan cywilny, data
+            urodzenia itp, rozważ usunięcie zdjęcia. Na potrzeby analizy te dane są zbędne. Następniezapoznaj się z polityką prywatności.
           </li>
           <li>
             Rekomenduję przepisanie swojego CV do szablonu, <strong>który jest do pobrania tutaj</strong>
